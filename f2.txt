@@ -10,3 +10,6 @@ brinjal
 beetroot
 carrot
 potato
+
+beans
+
