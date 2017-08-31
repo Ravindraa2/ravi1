@@ -6,3 +6,7 @@ tomato
 pumpkin
 brinjal
 
+
+beetroot
+carrot
+potato
